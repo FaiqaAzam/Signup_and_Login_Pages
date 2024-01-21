@@ -1,0 +1,190 @@
+body{
+  background-image: url('C:/Users/faiqa/OneDrive/Desktop/Projects/signup/src/images/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-color: brown; */
+}
+
+.block{
+  background-color: white;
+  margin-top: 55px;
+  width: 65%;
+  margin-bottom: 0%;
+  margin-left: 220px;
+  box-shadow: 3px 5px 9px 4px #888888;
+}
+
+.layout{
+  background-image: url('C:/Users/faiqa/OneDrive/Desktop/Projects/signup/src/images/layout.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* CSS FOR SIGN-UP PAGE */
+
+.welcome{
+  margin-top: 50%;
+  font-size: 40px;
+  margin-bottom: 4%;
+}
+
+.personal{
+  font-size: 18px;
+  font-family: math;
+}
+
+.leftsign{
+  margin-bottom: 30%;
+  margin-top: 3%;
+  border-radius: 21px;
+  padding: 5px 35px;
+  background-color: blueviolet;
+  border: 1px solid white;
+  color: white;
+}
+
+.leftsign:hover{
+  background-color: white;
+  border: 1px solid blueviolet;
+  color: blueviolet;
+}
+
+.account{
+  padding: 0px 0px;
+  margin-top: 20%;
+  margin-bottom: 3%;
+  font-size: 35px;
+}
+
+.user{
+  width: 4%;
+  margin-bottom: -51px;
+  margin-left: -83%;
+}
+
+.create{
+  margin-bottom: -6px;
+  width: 90%;
+  margin-left: 4%;
+  border: 0px;
+  border-bottom: 1px solid purple;
+  border-radius: 0px;
+  padding: 7px 0px 0px 37px;
+}
+
+.email{
+  margin-top: 7px;
+}
+
+.check{
+  margin-top: 18px;
+  margin-left: -31%;
+}
+
+.me{
+  transform: translateY(-81px);
+  margin-left: 6px;
+}
+
+.btn{
+  margin-bottom: 30%;
+}
+
+.signup{
+  border-radius: 21px;
+  padding: 5px 35px;
+  margin-left: -23px;
+  margin-top: 55px;
+  border: 1px solid blueviolet;
+  color: blueviolet;
+}
+
+.signup:hover{
+  border: 1px solid white;
+  color: white;
+  background-color: blueviolet;
+}
+
+.signup:active{
+  border: 1px solid white;
+  color: white;
+  background-color: blueviolet;
+}
+
+.social{
+  margin-top: -102px;
+}
+
+.width{
+  width: 22%;
+  margin-right: 4px;
+  margin-left: -11px;
+  margin-top: -3px;
+}
+
+.facebook{
+  width: 33%;
+  margin-bottom: 30px;
+  margin-top: -111px;
+  transform: translate(-33px, 50px);
+}
+
+.facebook:hover{
+  background-image: linear-gradient(to right, #ffffff, #004d9d);
+  color: white;
+}
+
+.width2{
+  width: 19%;
+  margin-right: 4px;
+  margin-left: -11px;
+  margin-top: -3px;
+}
+
+.google{
+  width: 34%;
+  margin-bottom: 60px;
+  transform: translate(36px, 9px);
+}
+
+.google:hover{
+  background-image: linear-gradient(to left, #f52525, #f7cb2b);
+  color: white;
+}
+
+/* CSS FOR SIGN-IN PAGE */
+.sign{
+  margin-top: 28%;
+  margin-bottom: 0%;
+  font-size: 44px;
+}
+
+.signin{
+  margin-top: 3%;
+  margin-left: -5px;
+  margin-bottom: 0%;
+}
+
+.forgot{
+  margin-top: 26px;
+  font-size: 20px;
+}
+
+.right{
+  margin-bottom: 33%;
+}
+
+.hello{
+  margin-top: 252px; 
+}
+
+.forgot a{
+  text-decoration: none;
+  color: black;
+}
+
+.forgot a:hover{
+  text-decoration: underline;
+  color: black;
+}
+
